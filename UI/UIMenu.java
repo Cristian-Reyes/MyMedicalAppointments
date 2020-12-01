@@ -16,8 +16,8 @@ public class UIMenu
     public static Patient patientLogged;
    public static void showMenu()
     {
-        System.out.println("Welcome to My Appointments");
-        System.out.println("Selecciona la opción deseada");
+
+        System.out.println("Seleccione una opción del menú");
 
         int response = 0;
         do {

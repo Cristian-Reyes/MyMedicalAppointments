@@ -15,6 +15,7 @@ public class Main
     public static void main(String[] args)
     {
 
+
         System.out.println("Bienvenido a HospitalPro");
 
         System.out.println("lo invitamos a seleccionar el menú correspondiente");
@@ -24,6 +25,7 @@ public class Main
 
 
         System.out.println("Gracias por su visita, nos vemos en una proxima");
+
 
     }
 }
